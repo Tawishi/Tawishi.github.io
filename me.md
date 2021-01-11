@@ -1,7 +1,7 @@
 <img align="right" src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="250px">
-_I am an opensource enthusiast with experience in_ ***Django web development and project documentation*** <br>
-_Always ready and excited to learn new stuff_ <br>
-_Right now I am exploring the_ :earth_asia: _of_ ***APIs***
+<i>I am an opensource enthusiast with experience in Django web development and project documentation <br>
+Always ready and excited to learn new stuff <br>
+Right now I am exploring the world of APIs</i>
 
 
 **Languages and Tools:**  
